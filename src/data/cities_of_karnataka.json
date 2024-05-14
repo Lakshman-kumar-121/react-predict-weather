@@ -1,0 +1,244 @@
+[
+  {
+    "id": 1,
+    "name": "Bagalkot",
+    "latitude": "16.1866",
+    "longitude": "75.6968",
+    "population": 1889752,
+    "region": "Bayaluseeme"
+  },
+  {
+    "id": 2,
+    "name": "Ballari (Bellary)",
+    "latitude": "15.1394",
+    "longitude": "76.9214",
+    "population": 2532383,
+    "region": "Bayaluseeme"
+  },
+  {
+    "id": 3,
+    "name": "Belagavi (Belgaum)",
+    "latitude": "15.8497",
+    "longitude": "74.4977",
+    "population": 4778439,
+    "region": "Bayaluseeme"
+  },
+  {
+    "id": 4,
+    "name": "Bengaluru (Bangalore) Rural",
+    "latitude": "12.6028",
+    "longitude": "77.2812",
+    "population": 987257,
+    "region": "Bayaluseeme"
+  },
+  {
+    "id": 5,
+    "name": "Bengaluru (Bangalore) Urban",
+    "latitude": "12.9716",
+    "longitude": "77.5946",
+    "population": 12357650,
+    "region": "Bayaluseeme"
+  },
+  {
+    "id": 6,
+    "name": "Bidar",
+    "latitude": "17.9229",
+    "longitude": "77.5175",
+    "population": 2589469,
+    "region": "Kalyana-Karnataka"
+  },
+  {
+    "id": 7,
+    "name": "Chamarajanagar",
+    "latitude": "11.9261",
+    "longitude": "76.9482",
+    "population": 1020791,
+    "region": "Old Mysuru"
+  },
+  {
+    "id": 8,
+    "name": "Chikkaballapur",
+    "latitude": "13.4352",
+    "longitude": "77.7315",
+    "population": 1252558,
+    "region": "Bayaluseeme"
+  },
+  {
+    "id": 9,
+    "name": "Chikkamagaluru (Chikmagalur)",
+    "latitude": "13.3200",
+    "longitude": "75.7700",
+    "population": 1137758,
+    "region": "Malenadu"
+  },
+  {
+    "id": 10,
+    "name": "Chitradurga",
+    "latitude": "14.2233",
+    "longitude": "76.4004",
+    "population": 1659453,
+    "region": "Bayaluseeme"
+  },
+  {
+    "id": 11,
+    "name": "Dakshina Kannada",
+    "latitude": "12.8654",
+    "longitude": "75.3426",
+    "population": 2089649,
+    "region": "Tulu Nadu"
+  },
+  {
+    "id": 12,
+    "name": "Davanagere",
+    "latitude": "14.4644",
+    "longitude": "75.9213",
+    "population": 1946901,
+    "region": "Bayaluseeme"
+  },
+  {
+    "id": 13,
+    "name": "Dharwad",
+    "latitude": "15.3647",
+    "longitude": "75.1240",
+    "population": 1847023,
+    "region": "Bayaluseeme"
+  },
+  {
+    "id": 14,
+    "name": "Gadag",
+    "latitude": "15.4215",
+    "longitude": "75.6171",
+    "population": 1064575,
+    "region": "Bayaluseeme"
+  },
+  {
+    "id": 15,
+    "name": "Hassan",
+    "latitude": "13.0084",
+    "longitude": "76.0968",
+    "population": 1776221,
+    "region": "Malenadu"
+  },
+  {
+    "id": 16,
+    "name": "Haveri",
+    "latitude": "14.7937",
+    "longitude": "75.4024",
+    "population": 1597668,
+    "region": "Bayaluseeme"
+  },
+  {
+    "id": 17,
+    "name": "Kalaburagi (Gulbarga)",
+    "latitude": "17.3297",
+    "longitude": "76.8343",
+    "population": 5187746,
+    "region": "Kalyana-Karnataka"
+  },
+  {
+    "id": 18,
+    "name": "Kodagu (Coorg)",
+    "latitude": "12.3375",
+    "longitude": "75.8069",
+    "population": 554519,
+    "region": "Malenadu"
+  },
+  {
+    "id": 19,
+    "name": "Kolar",
+    "latitude": "13.1364",
+    "longitude": "78.1299",
+    "population": 1557763,
+    "region": "Bayaluseeme"
+  },
+    {
+      "id": 20,
+      "name": "Koppal",
+      "latitude": "15.3500",
+      "longitude": "76.1500",
+      "population": 1389920,
+      "region": "Bayaluseeme"
+    },
+    {
+      "id": 21,
+      "name": "Mandya",
+      "latitude": "12.5223",
+      "longitude": "76.8974",
+      "population": 1805769,
+      "region": "Old Mysuru"
+    },
+    {
+      "id": 22,
+      "name": "Mysuru (Mysore)",
+      "latitude": "12.2958",
+      "longitude": "76.6394",
+      "population": 3001121,
+      "region": "Old Mysuru"
+    },
+    {
+      "id": 23,
+      "name": "Raichur",
+      "latitude": "16.2076",
+      "longitude": "77.3463",
+      "population": 1924773,
+      "region": "Kalyana-Karnataka"
+    },
+    {
+      "id": 24,
+      "name": "Ramanagara",
+      "latitude": "12.7161",
+      "longitude": "77.3600",
+      "population": 1082739,
+      "region": "Bayaluseeme"
+    },
+    {
+      "id": 25,
+      "name": "Shivamogga (Shimoga)",
+      "latitude": "13.9316",
+      "longitude": "75.5679",
+      "population": 1755516,
+      "region": "Malenadu"
+    },
+    {
+      "id": 26,
+      "name": "Tumakuru (Tumkur)",
+      "latitude": "13.3409",
+      "longitude": "77.1010",
+      "population": 2678980,
+      "region": "Bayaluseeme"
+    },
+    {
+      "id": 27,
+      "name": "Udupi",
+      "latitude": "13.3409",
+      "longitude": "77.1010",
+      "population": 1177361,
+      "region": "Tulu Nadu"
+    },
+    {
+      "id": 28,
+      "name": "Uttara Kannada (Karwar)",
+      "latitude": "14.3608",
+      "longitude": "74.3407",
+      "population": 1437169,
+      "region": "Karavali"
+    },
+    {
+      "id": 29,
+      "name": "Vijayapura (Bijapur)",
+      "latitude": "16.8302",
+      "longitude": "75.7100",
+      "population": 2182064,
+      "region": "Bayaluseeme"
+    },
+    {
+      "id": 30,
+      "name": "Yadgir",
+      "latitude": "16.7619",
+      "longitude": "77.1384",
+      "population": 1174271,
+      "region": "Kalyana-Karnataka"
+    }
+  
+  
+]
